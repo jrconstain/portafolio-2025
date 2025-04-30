@@ -8,6 +8,7 @@ Hola, soy economista del comportamiento y desarrollador asistido por IA. Aquí c
 
 ### 📘 Sistema RAG para un libro en línea  
 Busca y recupera los fragmentos más relevantes del texto frente a una pregunta del usuario, generando una respuesta basada en esos pasajes. En desarrollo para Scott Cunningham, para lanzarse con la segunda edición de su libro.
+
 ➡️ [Prueba el Demo](https://causal-inference-gpt-mvp-8ab8cb480098.herokuapp.com/)
 
 ---
@@ -21,6 +22,7 @@ Estoy desarrollando dos soluciones:
 
 ### 💬 Chatbot con IA para WhatsApp  
 Diseñado con Python para el backend y Supabase para memoria. Este bot busca mejorar la alfabetización digital en Colombia y es el núcleo de mi tesis en la Maestría en Economía Aplicada de la Universidad de los Andes.
+
 ➡️ [Mira el Demo](https://drive.google.com/file/d/1bMv3GxUfktIyCTMp6NESCaLXIM2Ft2OR/view?usp=sharing)
 
 ---
@@ -28,6 +30,7 @@ Diseñado con Python para el backend y Supabase para memoria. Este bot busca mej
 ### 📰 Artículo científico sobre desinformación  
 *"Accuracy nudges are not effective against deepfakes"*  
 Seleccionado para el programa ICWSM Global Partners 2025, de la International Conference on Web abd Social Media (una conferencia de la AAAI – Association for the Advancement of Artificial Intelligence).  
+
 ➡️ [Ver en arXiv](https://arxiv.org/abs/2411.02405)
 
 ---
@@ -39,7 +42,7 @@ Seleccionado para el programa ICWSM Global Partners 2025, de la International Co
 
 ---
 
-### ✍️ Divulgación técnica  
+### ✍️ Divulgación técnica y científica
 Escribo sobre IA, NLP, automatización y ciencias sociales:  
 ➡️ [Medium](https://medium.com/@jrojasconstain)  
 ➡️ [Sitio personal](https://jrojasconstain.com)
