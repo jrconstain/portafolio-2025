@@ -13,10 +13,11 @@ Busca y recupera los fragmentos más relevantes del texto frente a una pregunta 
 
 ---
 
-### 🔍 Automatización de análisis cualitativo con LLMs  
-Estoy desarrollando dos soluciones:  
-- Una para automatizar el etiquetado de categorías de interés en investigaciones cualitativas ➡️ [Ver proyecto en OSF](https://osf.io/dp7k2/)
-- Otra para clasificar abstracts de artículos en revisiones sistemáticas de literatura ➡️ [Ver cuaderno de Colab](https://colab.research.google.com/drive/1dryehuB6h0c-XaiMSzQRAZ3xrDjpG4Nw?usp=sharing)
+### 🔍 Automatización de análisis cualitativo y producción de conocimiento con LLMs  
+He desarrollando soluciones para:  
+- Clasificar automáticamente abstracts de artículos científicos usado LLMs ➡️ [Ver cuaderno de Colab](https://colab.research.google.com/drive/1dryehuB6h0c-XaiMSzQRAZ3xrDjpG4Nw?usp=sharing)
+- Producir reportes automáticos que incluyen la interpretación de gráficos y estadísticas ➡️ [Ver Demo](https://drive.google.com/file/d/1A7oNnHLT0oUaZ8ISuhMYnQLxPMZ7vLi2/view?usp=sharing) 
+- Automatizar el etiquetado de categorías de interés en investigaciones cualitativas ➡️ [Ver proyecto en OSF](https://osf.io/dp7k2/)
 
 ---
 
